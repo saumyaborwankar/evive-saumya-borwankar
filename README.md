@@ -1,7 +1,7 @@
 # evive-saumya-borwankar
 # **Menu Ordering System**
 
-This repository contains code for Evive Engineering Take Home Assignemnt. I have use Python to make my menu ordering system. Every file contains comment for better understanding.
+This repository contains code for Evive Engineering Take Home Assignemnt. Used Python to make the menu ordering system. Every file contains comments for better understanding.
 I have included a few of my rules to the existing rules:
 1. For Dinner you cannot order more than 1 side   
 2. For Dinner you cannot order more than 1 main  
@@ -11,7 +11,7 @@ I have included a few of my rules to the existing rules:
 ## Requirements
 1. Python3.6 or higher
 2. Unittest: Unittest module used for testing python code. Inbuilt in python3
-3. Pyinstaller: If you want to convert py files to executables on your end ```pip3 install pyinstaller``` (The executable is already provided in dist/menu/.
+3. Pyinstaller: If you want to convert py files to executables on your end ```pip3 install pyinstaller``` (The executable is already provided in dist/menu/)
 
 ## Source Code:
 1. menu.py: This python file contains the entire source code for the menu ordering system
