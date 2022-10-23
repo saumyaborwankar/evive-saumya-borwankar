@@ -13,7 +13,7 @@ I have included a few of my rules to the existing rules:
 2. Unittest: Unittest module used for testing python code. Inbuilt in python3
 3. Pyinstaller: If you want to convert py files to executables on your end ```pip3 install pyinstaller``` (The executable is already provided in dist/menu/)
 
-## Source Code:
+## Source Code
 1. menu.py: This python file contains the entire source code for the menu ordering system
 
 If you want to run the code:  ```python3 menu.py```
@@ -22,7 +22,7 @@ If you want to use the executable file:  ```./dist/menu/menu```
 
 The executable was made with the help of Pyinstaller using: ```pyinstaller menu.py```
 
-## Tests:
+## Tests
 1. test.py: This python file contains 16 test cases for the source code.
 
 To run this ```python3 -m unittest test.py```
