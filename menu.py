@@ -1,7 +1,7 @@
 
 from sys import exit
 #USAGE: python3 menu.py
-#USAGE: ./dist/menu
+#USAGE: ./dist/menu/menu
 
 class OrderList:
     def __init__(self):
